@@ -27,7 +27,7 @@
   </a>
 </div>
 
-Email: iv4enkoigor\@gmail.com
+Email: `iv4enkoigor@gmail.com`
 
 ### Languages and Tools:
 
