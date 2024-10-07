@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 
-![](https://komarev.com/ghpvc/?username=KratosHome)
-
-<h3 align="center">Front-End developer from Ukraine</h3>
+<h3 align="center">Fullstack developer</h3>
 
 <div class="image" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k1OHE1bHFhM2FpendraWMxdTQ1cTBlYnFxbHk4eWk3bDEyMmJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -29,6 +27,8 @@
   </a>
 </div>
 
+Email: iv4enkoigor@gmail.com
+
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -39,6 +39,5 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
-[linkedin]: https://www.linkedin.com/in/igor-ivchenko-4791092a5/
-[google]: iv4enkoigor@gmail.com
