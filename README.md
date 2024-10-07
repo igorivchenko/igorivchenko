@@ -8,12 +8,12 @@
   style="width: 600px; height: 350px; max-width: 94%;" />
 </div>
 
-
-- 🧘 I like write code
-- 🥅 I am constantly learning new things
-- 🏋 I love sport
-- 🎮 I love video games
-
+<br />
+<br />
+- 🧘 I like write code<br/>
+- 🥅 I am constantly learning new things<br/>
+- 🏋 I love sport<br/>
+- 🎮 I love video games<br/>
 
 ### Connect with me:
 <div align="left">
@@ -30,7 +30,6 @@
 </div>
 
 Email: `iv4enkoigor@gmail.com`
-
 
 ### Languages and Tools:
 
