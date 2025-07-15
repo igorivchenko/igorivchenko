@@ -23,10 +23,6 @@
  <a href="mailto:iv4enkoigor@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"/>
 </a>
-
-  <a href="https://www.linkedin.com/in/igor-ivchenko-4791092a5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"/>
-  </a>
 </div>
 
 Email: `iv4enkoigor@gmail.com`
